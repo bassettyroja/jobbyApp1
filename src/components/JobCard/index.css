@@ -1,0 +1,56 @@
+.link-item {
+  text-decoration: none;
+}
+.list-container {
+  background-color: #2c364c;
+  width: 90%;
+  margin: 10px;
+  border: none;
+  border-radius: 10px;
+}
+.logo-container {
+  display: flex;
+}
+.company-logo {
+  height: 90px;
+  width: 90px;
+  margin: 5px;
+}
+.title-container {
+  display: flex;
+  flex-direction: column;
+}
+.heading {
+  font-size: 28px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  padding: 3px;
+}
+.text {
+  font-size: 15px;
+  font-family: 'Roboto';
+  padding: 3px;
+  color: #ffffff;
+}
+.star-rating {
+  display: flex;
+}
+.location-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.left-part {
+  display: flex;
+}
+.location {
+  display: flex;
+}
+.emp-type {
+  display: flex;
+}
+.line {
+  border: 1px solid #ffffff;
+  width: 100%;
+}

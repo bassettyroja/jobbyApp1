@@ -1,0 +1,43 @@
+.search-input-container {
+  display: flex;
+}
+.search-input {
+  height: 32px;
+  border: 1px solid #cbd5e1;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: #ffffff;
+}
+.search-button {
+  border: 1px solid #cbd5e1;
+}
+.filters-container {
+  display: flex;
+  flex-direction: row;
+}
+.emp-heading {
+  font-size: 25px;
+  color: #ffffff;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+.list-container {
+  list-style-type: none;
+}
+.list-item {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}
+.input {
+  border: 1px solid #ffffff;
+  height: 30px;
+  width: 30px;
+  margin: 4px;
+}
+.check-label {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
